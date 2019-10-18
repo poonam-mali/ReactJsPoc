@@ -1,2 +1,2 @@
 # ReactJsPoc
-Poc usind react
+Poc using react
